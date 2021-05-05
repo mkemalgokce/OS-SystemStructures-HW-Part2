@@ -51,3 +51,5 @@ return 0.
 
 In the source code download, we give the C program pid.c, which pro-
 vides some of the basic building blocks for beginning this project.
+
+Book: https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11228&itemId=1119320917
